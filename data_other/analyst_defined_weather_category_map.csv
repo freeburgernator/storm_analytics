@@ -1,0 +1,34 @@
+﻿Weather Category,Event Type
+Wind,Thunderstorm Wind
+Wind,High Wind
+Wind,Marine Thunderstorm Wind
+Wind,Marine High Wind
+Wind,Strong Wind
+Wind,Marine Strong Wind
+Winter Weather,Winter Weather
+Winter Weather,Winter Storm
+Winter Weather,Heavy Snow
+Winter Weather,Blizzard
+Winter Weather,Frost/Freeze
+Winter Weather,Ice Storm
+Winter Weather,Sleet
+Winter Weather,Lake-Effect Snow
+Rain,Heavy Rain
+Hail,Hail
+Hail,Marine Hail
+Flood,Flash Flood
+Flood,Flood
+Flood,Coastal Flood
+Flood,Lakeshore Flood
+Drought,Drought
+Tornado,Tornado
+Heat,Heat
+Heat,Excessive Heat
+Cold,Cold/Wind Chill
+Cold,Extreme Cold/Wind Chill
+Lightning,Lightning
+Wildfire,Wildfire
+Tides,High Surf
+Tides,Rip Current
+Tides,Astronomical Low Tide
+Tides,Storm Surge/Tide
